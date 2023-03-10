@@ -1,51 +1,32 @@
-<h1 align ="center">Hi 👋, I'm Sourabh Rajput</h1>
-<h3 align ="center">A passionate Full-Stack Web Developer</h3>
+<img src="https://wanderin.dev/wp-content/uploads/2019/12/crop-0-0-1170-390-0-about-cover.png"/>
+<h1 align="center">Hi 👋, I'm Sourabh Rajput</h1>
+<h3 align="center">A passionate Full-Stack Web Developer</h3>
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 
-<h1> About Me</h1>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sourabh12321&label=Profile%20views&color=0e75b6&style=flat" alt="sourabh12321" /> </p>
 
-- 👀 <b>I’m interested in makes the changes.</b>
-- 💻 Learnt <b>Full Stack Web Development from Masai School</b>
-- 🤝 I’m looking to collaborate with some genious people as you.
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sourabh12321" alt="sourabh12321" /></a> </p>
 
+- 🔭 I’m currently working on **Backend**
 
-<h1>Connect With Me</h1>
-<div id="badges">
-  <a href="https://www.linkedin.com/in/sourabh-rajput-484689245/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-</div>
-<img src="https://komarev.com/ghpvc/?username=HarshalWagh-1137&style=flat-square&color=blue" alt=""/>
-<h1> Languages and Tools </h1>
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
- <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
-</div>
-<h1>Achivements</h1>
+- 🌱 I’m currently learning **Js,node.js ,MongoDB etc.**
 
-<!---
-SourabhRajput1812✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👨‍💻 All of my projects are available at [sourabh rajput](sourabh rajput)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=SourabhRajput1812&theme=dark)](https://github.com/ryo-ma/github-profile-trophy)
+- 📫 How to reach me **sourabh.rajput.22082001@gmail.com**
 
-### :fire: My Stats :
-[![SourabhRajput1812 GitHub stats](https://github-readme-stats.vercel.app/api?username=SourabhRajput1812&count_private=true&theme=dark&background=000000)](https://github.com/SourabhRajput1812/github-readme-stats)<span>[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SourabhRajput1812&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)</span>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/sourabh rajput" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sourabh rajput" height="30" width="40" /></a>
+</p>
 
- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=SourabhRajput1812&theme=dark&background=000000)](https://git.io/streak-stats)
-<br>
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sourabh12321&show_icons=true&locale=en&layout=compact" alt="sourabh12321" /></p>
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sourabh12321&show_icons=true&locale=en" alt="sourabh12321" /></p>
 
-
-
-<div align="start">
-  <img src="https://media.giphy.com/media/3o6nVbpDfXbRv7D1wA/giphy.gif" width="600" height="300"/>
-</div>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sourabh12321&" alt="sourabh12321" /></p>
