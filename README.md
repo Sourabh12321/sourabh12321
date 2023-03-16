@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **sourabh.rajput.22082001@gmail.com**
 
-- 🤝 portfolio **https://github.com/Sourabh12321/Sourabh12321.github.io**
+- 🤝 portfolio **https://sourabh12321.github.io/**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
