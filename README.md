@@ -1,11 +1,11 @@
 ![logo](https://wallpapercave.com/wp/wp7157996.jpg)
 <h1 align="center">Hi 👋, I'm Sourabh Rajput</h1>
-<img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
-
 <h3 align="center">A passionate Full-Stack Web Developer</h3>
+
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+  <img align="center" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
 </div>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sourabh12321&label=Profile%20views&color=0e75b6&style=flat" alt="sourabh12321" /> </p>
 
